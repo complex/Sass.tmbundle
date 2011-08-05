@@ -230,7 +230,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>Ruby Sass</string>
+	<string>Sass</string>
 	<key>ordering</key>
 	<array>
 		<string>F0E82099-331C-486B-A099-B8B7B9721ED3</string>
